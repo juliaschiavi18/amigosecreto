@@ -1,4 +1,4 @@
-# 🎲 Site de Sorteio de Nomes
+# 🎲 Site Amigo Secreto!
 
 Este é um site simples para realizar sorteios de nomes de forma rápida e prática. Ideal para sorteios de amigo secreto, escolha de equipes e outras dinâmicas.
 
@@ -11,9 +11,7 @@ Este é um site simples para realizar sorteios de nomes de forma rápida e prát
 
 ## 🛠️ Tecnologias Utilizadas
 
-- HTML, CSS e JavaScript puro
-- (Opcional: Biblioteca XYZ para manipulação de listas)
-- (Opcional: Backend em Node.js/Python/PHP para persistência)
+- HTML, CSS e JavaScript 
 
 ## 📦 Como Usar
 
